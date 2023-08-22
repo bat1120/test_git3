@@ -8,6 +8,8 @@ public class Test {
 		System.out.println("두개재");
 		System.out.println("rsrs");
 		System.out.println("sadfjk");
+		System.out.println("asdjkfhsdfsdh");
+		System.out.println("asdjkfhsdfsdh");
 	}
 
 }
